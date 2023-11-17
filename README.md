@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHFpnqPDaIzQg/profile-displaybackgroundimage-shrink_350_1400/0/1687103116434?e=1700092800&v=beta&t=UW-tZ_h9kGJON9ZZbhU0vW8bIPDUAR3WDBWtKjrzioc)
+<img src='https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY' alt='profile banner' height='350' width='100%'>
 <h1>Hi, I'm Stefan Glumac 👋</h1>
 # My GitHub Journey to Becoming a Frontend Developer
 
